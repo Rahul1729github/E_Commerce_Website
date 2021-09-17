@@ -1,0 +1,25 @@
+{
+  "name": "ecoomerce",
+  "version": "1.0.0",
+  "description": "MERN ecommerce app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul1729github/E_Commerce_Website.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "rahul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rahul1729github/E_Commerce_Website/issues"
+  },
+  "homepage": "https://github.com/Rahul1729github/E_Commerce_Website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
